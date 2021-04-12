@@ -2,6 +2,7 @@
 
 Unityで共通して使うアセットをパッケージ化したリポジトリ
 
+使用する場合はPackageManagerの「左上+ボタン > git URL ...」に「https://github.com/MuranagaTamura/UnityCommonPackage.git?path=/UnityCommonPackage/Packages/UnityCommon」を追加してください
 
 
 ## AudioManager
